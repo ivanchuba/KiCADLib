@@ -1,7 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP VL53L5CX
-F https://www.st.com/resource/en/datasheet/vl53l5cx.pdf
-$ENDCMP
-#
-#End Doc Library
